@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 979d36c7975e631459fe77bfc7c6fbd8, type: 3}
+  m_Name: AudioClipsSO
+  m_EditorClassIdentifier: 
+  shoot:
+  - {fileID: 8300000, guid: badf0f4161ca5a34585490cb36237667, type: 3}
+  - {fileID: 8300000, guid: bbe766f7395f65445ab4b78e2daa1858, type: 3}
+  thrust: {fileID: 8300000, guid: 5744e9e77e0cc3e408ab1df40e3dd429, type: 3}
+  explosion:
+  - {fileID: 8300000, guid: 9f3c3ce57ca534a41b5c4af1b1247df4, type: 3}
+  - {fileID: 8300000, guid: 828307129e2dd4b479a02d62f3a2afd4, type: 3}
+  - {fileID: 8300000, guid: 26d30d647418e024595f186ba6ad0dd6, type: 3}
+  select: {fileID: 8300000, guid: 099d2a99337648d4baa3b237fa9f3d77, type: 3}
+  countdownSound: {fileID: 8300000, guid: ddd20f712134841479ad26c0ba08ad2f, type: 3}
+  startSound: {fileID: 8300000, guid: e9f392268e131cd45bed106d09f2aae1, type: 3}
+  gameOver: {fileID: 8300000, guid: 6dcb44fd9792e9343ba4ba34e911fe73, type: 3}
+  gameBackground: {fileID: 8300000, guid: 9cd2bc8de481535408f94fd142dc3816, type: 3}
+  menuBackground: {fileID: 8300000, guid: 640bd0981af8d7846a5c2d36a9fd6f3f, type: 3}
